@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    height: 700px;
+    width: 800px;
+    border: 2px solid black;
+    margin: auto;
+    background-color: bisque;
+    
+}
+
+
+
+
+#form{
+    text-align: center;
+    color: crimson;
+    margin: 50px;
+}
