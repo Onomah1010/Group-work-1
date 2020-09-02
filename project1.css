@@ -1,0 +1,60 @@
+body{
+    background-color: bisque;
+}
+.main{
+    width: 70%;
+    padding: 3px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.image{
+    text-align: center;
+}
+.bio{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex-direction: column;
+
+}
+.bio .box{
+    background-color: whitesmoke;  
+    padding: 10px;
+
+}
+.box :nth-child(1){
+    background-color: powderblue;
+}
+
+
+
+
+
+
+a:link, a:visited {
+    background-color: lightblue;
+    padding: 8px 10px;
+    text-decoration: none;
+    color: white;
+    
+  }	
+  a:hover, a:active{
+      background-color: grey;
+  }
+
+  p4{
+      color: lightcoral;
+  }
+
+#site{
+    text-align: center;
+    background-color: lightgreen;
+    padding: 10px ;
+    font-size: 25px;
+    
+}
